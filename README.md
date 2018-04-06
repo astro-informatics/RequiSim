@@ -25,11 +25,10 @@ University College London, 2018
 
 **cite**: 
 
-- __Taylor et al 2018 in prep__: The formalism
+- __Preparing for the Cosmic Shear Data Flood: Optimal Data Extraction and
+Simulation Requirements for Stage IV Dark Energy Experiments__: The formalism
       in this code is developed.
-- __Taylor et al 2018 in prep__: _GLaSS_, which produced 
-      the data files, is described.
-More Info: Taylor er al 2018 in prep
+- __Testing the Cosmic Shear Spatially-Flat Universe Approximation with GLaSS__: _GLaSS_, which produced the data files, is described.
 
 
 
